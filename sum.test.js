@@ -11,3 +11,6 @@ test("Test Case 2", () => {
 test("Object Testing", () => {
   expect(objectTesting()).toEqual({ name: "Pranay" });
 });
+test("Object Testing", () => {
+  expect(objectTesting()).toEqual({ name: "Pranay" });
+});
